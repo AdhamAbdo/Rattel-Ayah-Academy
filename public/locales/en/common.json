@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "about": "About Us",
+    "courses": "Courses",
+    "teachers": "Teachers",
+    "why": "Why Choose Rattel Ayah?",
+    "testimonials": "Testimonials",
+    "faqs": "FAQs",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Learn Quran & Arabic Online",
+    "subtitle": "Expert guidance for all ages. Master Quranic recitation, memorization, and Islamic studies.",
+    "cta": "Explore Courses",
+    "whatsapp": "Contact on WhatsApp"
+  },
+  "courses": {
+    "title": "Our Courses",
+    "hifz": {
+      "title": "Quran Memorization",
+      "description": "Memorize the Quran under expert guidance with proven methods and personalized attention.",
+      "instructor": "Instructor: Sheikh Ahmed",
+      "price": "$50/month",
+      "duration": "12 weeks",
+      "level": "All Levels"
+    },
+    "tajweed": {
+      "title": "Basic Tajweed",
+      "description": "Master the proper pronunciation and recitation rules of the Quran.",
+      "instructor": "Instructor: Ustazah Fatima",
+      "price": "$40/month",
+      "duration": "10 weeks",
+      "level": "Beginner"
+    },
+    "arabic": {
+      "title": "Arabic Language",
+      "description": "Learn modern and classical Arabic from native speakers.",
+      "instructor": "Instructor: Sheikh Muhammad",
+      "price": "$45/month",
+      "duration": "12 weeks",
+      "level": "All Levels"
+    },
+    "tafseer": {
+      "title": "Tafseer Classes",
+      "description": "Understand the meaning and wisdom of the Quran through scholarly interpretation.",
+      "instructor": "Instructor: Sheikh Hassan",
+      "price": "$55/month",
+      "duration": "14 weeks",
+      "level": "Intermediate"
+    },
+    "names": {
+      "title": "Names of Allah",
+      "description": "Study and reflect on the beautiful names and attributes of Allah.",
+      "instructor": "Instructor: Ustazah Aisha",
+      "price": "$35/month",
+      "duration": "8 weeks",
+      "level": "Beginner"
+    },
+    "islamic": {
+      "title": "Islamic Studies",
+      "description": "Comprehensive Islamic education covering faith, jurisprudence, and history.",
+      "instructor": "Instructor: Sheikh Ali",
+      "price": "$50/month",
+      "duration": "16 weeks",
+      "level": "All Levels"
+    }
+  },
+  "features": {
+    "title": "Why Choose Rattel Ayah Academy?",
+    "native": {
+      "title": "Native Arabic Teachers",
+      "description": "Learn from qualified instructors fluent in classical and modern Arabic"
+    },
+    "certified": {
+      "title": "Certified Instructors",
+      "description": "All teachers hold Islamic certifications and teaching credentials"
+    },
+    "flexible": {
+      "title": "Flexible Schedule",
+      "description": "Choose class times that work for you - early morning to evening slots"
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Get help anytime through WhatsApp, email, or live chat"
+    },
+    "personal": {
+      "title": "Personalized Learning",
+      "description": "One-on-one or small group sessions tailored to your pace"
+    },
+    "affordable": {
+      "title": "Affordable Pricing",
+      "description": "Quality Islamic education at prices accessible to everyone"
+    }
+  },
+  "teachers": {
+    "title": "Our Teachers",
+    "description": "Meet our qualified and dedicated educators"
+  },
+  "testimonials": {
+    "title": "What Our Students Say",
+    "description": "Hear from families who have benefited from our courses"
+  },
+  "faqs": {
+    "title": "Frequently Asked Questions",
+    "q1": "What age groups do you teach?",
+    "a1": "We teach students from age 4 to adults. We have specialized programs for each age group.",
+    "q2": "Do you offer one-on-one classes?",
+    "a2": "Yes, we offer both one-on-one private classes and group sessions based on your preference.",
+    "q3": "What is your refund policy?",
+    "a3": "We offer a 7-day money-back guarantee if you're not satisfied with our course.",
+    "q4": "Can I take multiple courses?",
+    "a4": "Absolutely! You can enroll in multiple courses and we'll help you manage your schedule.",
+    "q5": "How do I contact the teachers?",
+    "a5": "You can reach out via WhatsApp, email, or through our portal messaging system."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have questions? Reach out to us anytime!",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "whatsapp": "WhatsApp: +201119690838",
+      "email": "Email: info@rattelaayah.com",
+      "hours": "Available: 9 AM - 9 PM (GMT+2)"
+    }
+  },
+  "footer": {
+    "company": "Company",
+    "courses": "Courses",
+    "support": "Support",
+    "legal": "Legal",
+    "rights": "© 2024 Rattel Ayah Academy. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "buttons": {
+    "exploreCourses": "Explore Courses",
+    "enrollNow": "Enroll Now",
+    "viewDetails": "View Details",
+    "contact": "Contact Us",
+    "subscribe": "Subscribe"
+  }
+}
